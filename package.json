@@ -1,0 +1,18 @@
+{
+  "type": "module",
+  "name": "mocha",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter=nyan --bail"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^5.0.3",
+    "mocha": "^10.3.0",
+    "nyc": "^15.1.0"
+  }
+}
